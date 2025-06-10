@@ -1,14 +1,9 @@
 title: SWR Sports Data Analysis
 description: "Data-driven insights into your favorite sports, teams, and athletes"
 
-# tell GitHub Pages to build with remote themes
-plugins:
-  - jekyll-remote-theme
-
-# choose one of the Official Pages themes; e.g. Architect
 remote_theme: pages-themes/architect@v0.2.0
-
-theme: ""   # leave theme blank so remote_theme is used
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # your nav menu
 navigation:
