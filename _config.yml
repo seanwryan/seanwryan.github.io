@@ -6,7 +6,7 @@ plugins:
   - jekyll-remote-theme
 
 # choose one of the Official Pages themes; e.g. Architect
-remote_theme: pages-themes/architect@v0.3.0
+remote_theme: pages-themes/architect@v0.2.0
 
 theme: ""   # leave theme blank so remote_theme is used
 
