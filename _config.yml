@@ -1,7 +1,7 @@
 title: SWR Sports Data Analysis
 description: "Data-driven insights into your favorite sports, teams, and athletes"
 
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
