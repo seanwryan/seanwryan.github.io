@@ -1,13 +1,18 @@
 title: SWR Sports Data Analysis
-description: "Data-driven insights into your favorite sports, teams, and athletes"
+description: "Data‐driven insights into your favorite sports, teams, and athletes"
 
-remote_theme: pages-themes/cayman@v0.2.0
+# Must include this so GitHub Pages knows to use remote themes
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
 
-# your nav menu
+# this is the only theme key you need
+remote_theme: pages-themes/cayman@v0.2.0
+
+# leave “theme:” blank or omit it entirely
+# theme:
+
 navigation:
-  - title: SWR Sports Data Analysis
+  - title: Home
     url: /
   - title: About
     url: /about/
