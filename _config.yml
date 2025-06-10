@@ -7,7 +7,7 @@ plugins:
 
 # your nav menu
 navigation:
-  - title: Home
+  - title: SWR Sports Data Analysis
     url: /
   - title: About
     url: /about/
